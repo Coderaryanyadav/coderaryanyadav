@@ -5,15 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=2000&color=00FF00&center=true&vCenter=true&repeat=false&width=900&lines=%3E+Hey%2C+I%E2%80%99m+Aryan+—+builder%2C+breaker%2C+and+believer+in+better+tech." />
 </p>
-
-<!-- ASCII HEADER -->
-██████╗  █████╗ ██████╗ ██╗   ██╗███╗   ██╗
-██╔══██╗██╔══██╗██╔══██╗██║   ██║████╗  ██║
-██████╔╝███████║██║  ██║██║   ██║██╔██╗ ██║
-██╔══██╗██╔══██║██║  ██║██║   ██║██║╚██╗██║
-██████╔╝██║  ██║██████╔╝╚██████╔╝██║ ╚████║
-╚═════╝ ╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚═╝  ╚═══╝
-
 <p align="center">
   <b><i>"Curiosity-driven chaos. Crafting code, cracking systems, creating impact."</i></b>
 </p>
@@ -62,13 +53,13 @@ A next-gen thrift clothing platform built for speed, accessibility & young shopp
 
 ## 🧵 My Journey Timeline
 
-[2014] → Broke my first laptop. Got curious.
-[2017] → Started coding random C programs.
-[2020] → Entered the world of Linux + cybersecurity.
-[2022] → Built my first working apps.
-[2024] → Started ApnaGate + GenZThrift.
-[2025] → Aiming to become India’s top cybersecurity engineer.
-[∞] → More to come. Always.
+[2014] → Broke my first laptop. Got curious.\n
+[2017] → Started coding random C programs.\n
+[2020] → Entered the world of Linux + cybersecurity.\n
+[2022] → Built my first working apps.\n
+[2024] → Started ApnaGate + GenZThrift.\n
+[2025] → Aiming to become India’s top cybersecurity engineer.\n
+[∞] → More to come. Always.\n
 
 ---
 
